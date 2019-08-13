@@ -1,5 +1,6 @@
 cmake_minimum_required(VERSION 3.9...3.12)
 project(elm_6f LANGUAGES CXX)
+
 set(CMAKE_PREFIX_PATH /home/ylang/local/BOUT)
 find_package(MPI REQUIRED)
 include_directories($MPI_INCLUDE_PATH)
