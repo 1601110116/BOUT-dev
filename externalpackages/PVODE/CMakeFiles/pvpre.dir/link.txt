@@ -1,0 +1,2 @@
+/usr/bin/ar qc libpvpre.a  CMakeFiles/pvpre.dir/precon/pvbbdpre.cpp.o CMakeFiles/pvpre.dir/precon/band.cpp.o
+/usr/bin/ranlib libpvpre.a

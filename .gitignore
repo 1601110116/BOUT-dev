@@ -45,7 +45,6 @@ build*/
 
 tests/
 cmake-build-debug/
-externalpackages/
 googletest/
 *.tmp
 .idea/
